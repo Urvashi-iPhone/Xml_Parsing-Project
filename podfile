@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ‘8.2’
+
+target ‘XML_parser’ do
+pod 'AFNetworking', '~> 3.0'
+
+
+end
